@@ -4,10 +4,10 @@
 """ 
 @author:yzk13 
 @time: 2018/04/19
-Reverse a singly linked list.
+Reverse a singly linear.
 """
 
-# Definition for singly-linked list.
+# Definition for singly-linear.
 # class ListNode(object):
 #     def __init__(self, x):
 #         self.val = x
