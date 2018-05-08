@@ -34,9 +34,6 @@ class Solution:
 
         return sum(range(len(nums)+1)) - sum(nums)
 
-
-
-
 if __name__ == '__main__':
     s = Solution()
     nums = [3, 0, 1]
