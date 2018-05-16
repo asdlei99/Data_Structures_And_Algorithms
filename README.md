@@ -1,5 +1,5 @@
 # Data_Structures_And_Algorithms
-My Data Structures And Algorithms Learning Way:smile:
+:smile:My Data Structures And Algorithms Learning Way
 
 - :notebook:   Bash
 - :snake:  Python
